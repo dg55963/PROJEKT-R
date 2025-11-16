@@ -4,3 +4,4 @@ Projekt nastao u sklopu fakultetskog kolegija s ciljem timskog rada studenata i 
 # MENTOR
 prof. dr. sc. **Igor Čavrak**\
 Fakultet elektrotehnike i računarstva, Sveučilište u Zagrebu
+
