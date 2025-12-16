@@ -1,8 +1,10 @@
 idf_component_register(
     SRCS
         "main.c"
-        "ble/ble_service.c"
+        "src/gap.c"
+        "src/gatt_svc.c"
     INCLUDE_DIRS
         "."
-        "ble"
+        "include"
+        "src"
 )
